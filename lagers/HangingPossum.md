@@ -12,7 +12,7 @@ Recipe is for 6 gallons
 * .5oz German Saphir @ 2
 * .25tsp irish moss
 * Lager Yeast (WLP800 / WLP810)
-
+---
 * OG: 1.046-1.050
 * FG: 1.012-1.014
 * B: 31BU
