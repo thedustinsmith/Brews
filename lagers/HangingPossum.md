@@ -13,11 +13,11 @@ Recipe is for 6 gallons
 * .25tsp irish moss
 * Lager Yeast (WLP800 / WLP810)
 
-OG: 1.046-1.050
-FG: 1.012-1.014
-B: 31BU
-SRM: 6
-Alcohol: 4.5%
+* OG: 1.046-1.050
+* FG: 1.012-1.014
+* B: 31BU
+* SRM: 6
+* Alcohol: 4.5%
 
 ## Mash
 Add Grains & Corn to 10qt(2.5 gal) of 143F water, mix well.  Temp should stabilize between 130-135.  Add heat to maintain 130-135 for 30 minutes.
