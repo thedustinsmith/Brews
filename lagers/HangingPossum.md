@@ -18,3 +18,14 @@ FG: 1.012-1.014
 B: 31BU
 SRM: 6
 Alcohol: 4.5%
+
+## Mash
+Add Grains & Corn to 10qt(2.5 gal) of 143F water, mix well.  Temp should stabilize between 130-135.  Add heat to maintain 130-135 for 30 minutes.
+
+Add 5qt (1.25gal) of boiling water.  Should level out around 155F.  Hold for 60 minutes.  Raise to 158F and hold for 10-20 minutes. Raise to 167F.
+
+## Sparge
+Sparge with 3gal of 170F water.
+
+## Fermentation
+Chill to 70F and pitch yeast.  Then ferment at 55F for 3-4 weeks.
